@@ -23,10 +23,11 @@ header {
     gap: 8px;
 }
 
-a, .para {
- text-decoration: none;
- color: #e5e7eb;
- font-size: 18px;
+a,
+.para {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 h1 {
@@ -89,7 +90,7 @@ h2 {
 }
 
 .images {
-    width:900px;
+    width: 900px;
     margin: 40px auto;
     padding: 40px 0;
     display: flex;
@@ -98,7 +99,7 @@ h2 {
 
 .quote-section {
     background-color: #e5e7eb;
-    padding: 40px 0;   
+    padding: 40px 0;
 }
 
 .quote {
@@ -119,7 +120,7 @@ h2 {
     text-align: right;
     color: #1f2937;
 }
- 
+
 .action-section {
     background-color: #3882f6;
     width: 900px;
@@ -163,4 +164,3 @@ footer {
 .footer-text {
     text-align: center;
 }
-
