@@ -154,5 +154,13 @@ h2 {
     white-space: nowrap;
 }
 
+footer {
+    color: #e5e7eb;
+    background-color: #1f2937;
+    padding: 20px 0 20px;
+}
 
+.footer-text {
+    text-align: center;
+}
 
