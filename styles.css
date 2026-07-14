@@ -119,5 +119,40 @@ h2 {
     text-align: right;
     color: #1f2937;
 }
+ 
+.action-section {
+    background-color: #3882f6;
+    width: 900px;
+    margin: 60px auto;
+    padding: 30px 50px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action h3 {
+    color: #f9faf8;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+
+.action p {
+    color: #f9faf8;
+    font-size: 14px;
+    font-style: 300;
+}
+
+.action-button {
+    background-color: transparent;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 8px 24px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
 
 
