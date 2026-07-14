@@ -96,4 +96,28 @@ h2 {
     justify-content: space-around;
 }
 
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 40px 0;   
+}
+
+.quote {
+    width: 700px;
+    margin: 40px auto 0;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.quoteby {
+    width: 700px;
+    margin: 0 auto 40px;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: right;
+    color: #1f2937;
+}
+
 
